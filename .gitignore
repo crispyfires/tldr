@@ -34,3 +34,4 @@ __pycache__
 
 # Generated log
 debug.log
+.zed/tasks.json
